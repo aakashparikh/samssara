@@ -16,7 +16,7 @@ public class FindingValues{
 			int number=input.nextInt();
 			arr[i]=number;
 		}
- //aakash change....
+ //dipyant changes
 		int i;	
 		for( i=0;i<size;++i){//for i<size
 			int count=0;	
